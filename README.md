@@ -1,4 +1,4 @@
-#To do list
+# To do list
 
 Simplistic to do list.
 Add an event by typing the event in the top text field, then click enter.
