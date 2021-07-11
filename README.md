@@ -1,3 +1,9 @@
+#To do list
+
+Simplistic to do list.
+Add an event by typing the event in the top text field, then click enter.
+To remove an event, click the remove button on the event card.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
