@@ -188,7 +188,7 @@ const EventStack = () => {
 
   return (
     <div id="event-container">
-      <h1>Your To-Do-List</h1>
+      <h1>Your To-Do-List.</h1>
       <AddButton addEvent={addEvent} />
       {eventBoxes}
     </div>
